@@ -12,9 +12,9 @@ from utils.utils import letterbox_image
 
 class YOLO(object):
     _defaults = {
-        "model_path"        : '../Model/trained_weights.h5',
-        "anchors_path"      : '../Model/yolo_anchors.txt',
-        "classes_path"      : '../Model/yolo_classes.txt',
+        "model_path"        : '../model/trained_weights.h5',
+        "anchors_path"      : '../model/yolo_anchors.txt',
+        "classes_path"      : '../model/yolo_classes.txt',
         "score"             : 0.5,
         "iou"               : 0.3,
         "max_boxes"         : 100,

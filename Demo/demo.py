@@ -5,6 +5,6 @@ from yolo import YOLO
 
 if __name__ == "__main__":
     yolo = YOLO()
-    img = Image.open('../Examples/01.jpg')
+    img = Image.open('../examples/01.jpg')
     result = yolo.detect_image(img)
     result.show()
