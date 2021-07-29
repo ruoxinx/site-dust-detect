@@ -57,10 +57,22 @@ The precise boundaries of dust regions are difficult to define visually for some
 Construction Dust Emission (CDE) dataset contains three main splits:
 
   - Training subset (synthetic images): The training subset contains 3,860 synthetic images. 10% of the images in the training subset are randomly partitioned into the validation subset. [Google Drive](https://drive.google.com/file/d/1GnJNLsM6CdB1mjtc0x-ApOAFfS6yh8Y6/view?usp=sharing)
-
   - Testing subset (real-world images): The testing subset consists of 234 dust-filled images and 528 dust-free images. The negative images (dust-free images) are more than the positive samples (dust-filled images) because dust emission events are a minority in real scenarios. [Google Drive](https://drive.google.com/drive/folders/13oCoBSoPqSNXbLVYwfQAbfK4g3YzNrsJ?usp=sharing)
-
   - Background subset: The background images were used to generate synthetic dust samples by randomly inserting simulative dust. The background subset has 253 real-world images with dust-prone activities. [Google Drive](https://drive.google.com/drive/folders/13oCoBSoPqSNXbLVYwfQAbfK4g3YzNrsJ?usp=sharing)
+
+## **Citation**
+
+If you find this project useful in your research, please consider cite:
+
+```
+@article{xiong2021machine,
+  title={Machine learning using synthetic images for detecting dust emissions on construction sites},
+  author={Xiong, Ruoxin and Tang, Pingbo},
+  journal={Smart and Sustainable Built Environment},
+  year={2021},
+  doi={https://doi.org/10.1108/SASBE-04-2021-0066}
+}
+```
 
 ## **Acknowledgements**
 
