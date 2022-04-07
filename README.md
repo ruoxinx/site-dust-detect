@@ -4,13 +4,20 @@ Examine an image-based dust emission monitoring method for construction activiti
 
 ## **Table of Contents**
 
-1. [Introduction](#Introduction)
+1. [Preparation](#Preparation)
 
-2. [Implementation](#Implementation)
+2. [Introduction](#Introduction)
 
-3. [Construction Dust Emission (CDE) Dataset](#Construction-Dust-Emission-(CDE)-Dataset)
+3. [Implementation](#Implementation)
 
-   
+4. [Construction Dust Emission (CDE) Dataset](#Construction-Dust-Emission-(CDE)-Dataset)
+
+
+## **Preparation**
+
+python==3.6
+tensorflow-gpu==1.13.1
+keras==2.1.5
 
 ## **Introduction**
 
