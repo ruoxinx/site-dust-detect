@@ -51,7 +51,7 @@ We specify some parameters, including rendering color, start lifetime, start spe
 This study trained three state-of-the-art neural networks using open-source implementations.
 
 - Faster R-CNN
-- SSD
+- SSD-300
 - YOLO-v3
 
 
@@ -63,7 +63,7 @@ The precise boundaries of dust regions are difficult to define visually for some
 </div>
 
 - The pretrained Faster R-CNN model is available from [Google Drive](https://drive.google.com/drive/folders/11W7F__15-9duoC-elkoQ9q2Kwy39CNT4?usp=sharing).
-- The pretrained SSD model is available from [Google Drive](https://drive.google.com/drive/folders/1wDbHsUFRwhF-0v1d7hujM9ba0u4WCHxj?usp=sharing).
+- The pretrained SSD-300 model is available from [Google Drive](https://drive.google.com/drive/folders/1wDbHsUFRwhF-0v1d7hujM9ba0u4WCHxj?usp=sharing).
 - The pretrained YOLO-v3 model is available from [Google Drive](https://drive.google.com/drive/folders/1XHbLfIGIGKYPBxbXJys6dwdylPtygmeh?usp=sharing).
 
 ## **Construction Dust Emission (CDE) Dataset**
