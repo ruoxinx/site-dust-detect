@@ -23,7 +23,7 @@ Install the requirements (you can use pip or Anaconda):
 
 ```
 conda create -n tf-keras python=3.6
-activate tf-keras
+conda activate tf-keras
 pip install -r ./requirements.txt
 ```
 ## **Introduction**
