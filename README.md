@@ -16,7 +16,7 @@ Examine an image-based dust emission monitoring method for construction activiti
 ## **Preparation**
 
 - python==3.6
-- tensorflow-gpu==1.13.1
+- tensorflow-gpu==1.13.2
 - keras==2.1.5
 
 Install the requirements (you can use pip or Anaconda):
