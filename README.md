@@ -15,10 +15,17 @@ Examine an image-based dust emission monitoring method for construction activiti
 
 ## **Preparation**
 
-python==3.6
-tensorflow-gpu==1.13.1
-keras==2.1.5
+- python==3.6
+- tensorflow-gpu==1.13.1
+- keras==2.1.5
 
+Install the requirements (you can use pip or Anaconda):
+
+```
+conda create -n tf-keras python=3.6
+activate tf-keras
+pip install -r ./requirements.txt
+```
 ## **Introduction**
 
 Visible dust plumes are evidence of dust emissions. This context inspires us to leverage an abundance of visual information for dust monitoring in large and open workplaces. Based on common dust features, we use the particle system of the Unity 3D engine to simulate dust clouds. The 3D simulative dust clouds are combined with various background images taken from construction sites to automatically generate the synthetic construction dust emission scenarios. 
